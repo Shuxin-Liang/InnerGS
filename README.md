@@ -1,4 +1,6 @@
-This project is an implementation of the paper, "InnerGS: Internal Scenes Rendering via Factorized 3D Gaussian Splatting".
+### **InnerGS: Internal Scenes Rendering via Factorized 3D Gaussian Splatting**
+
+This project is an implementation of the paper, **"InnerGS: Internal Scenes Rendering via Factorized 3D Gaussian Splatting"**.
 
 Authors: Shuxin Liang, Yihan Xiao, Wenlu Tang
 
