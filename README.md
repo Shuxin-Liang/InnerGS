@@ -6,7 +6,7 @@ Authors: Shuxin Liang, Yihan Xiao, Wenlu Tang
 
 ArXiv Link: https://arxiv.org/abs/2508.13287
 
-## Demo
+### Demo
 
 <div align="center">
   <img src="asset/demo1.gif" width="270" alt="Demo 1">
